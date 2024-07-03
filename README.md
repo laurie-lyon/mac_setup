@@ -21,8 +21,12 @@ We're going install a slew of handy shit:
   openssh \
   tmux \
   docker \
-  visual-studio-code
+  visual-studio-code \
+  tree
 ```
+
+## Installing Rstudio via Docker/Rocker
+  - in progress
 
 ## Commands to know
   - `cmd` + `,` to open settings
@@ -30,6 +34,7 @@ We're going install a slew of handy shit:
   - `ssh` allows you to control computers remotely
   - `git`
   - `which` identifies the path of a certain software/tool
+  - `tree` displays a tree of folders/subfolders
 
 ## Software
 Virtual Environments
@@ -52,3 +57,7 @@ Languages
 Brew Packages:
   - git
   - htop
+
+# TO DO:
+  - Complete documentation for docker B.S.
+  - Complete documentation for vscode + micromamba setup.
